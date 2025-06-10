@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important locations/Worlds End.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Worlds End"
+              "title": "README"
             }
           }
         ]
@@ -167,11 +167,16 @@
   },
   "active": "facc496c32d9f910",
   "lastOpenFiles": [
-    "Bogfather/Unseen.md",
+    "READMEassets/img3.png",
+    "READMEassets/img2.png",
+    "READMEassets/img1.png",
+    "READMEassets",
     "Important locations/Worlds End.md",
+    "Bogland/history.md",
+    "README.md",
+    "Bogfather/Unseen.md",
     "Important locations",
     "Bogfather/Church of the Bogfather.md",
-    "Bogland/history.md",
     "Welcome.md",
     "toadsquires",
     "bogfolk",
