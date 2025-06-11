@@ -6,7 +6,8 @@
  1. keep the people in a state so that the [[Unseen]] can continue to benefit from the people's technology
  2. explain away the moments when the [[Unseen]] interacts with the people
  3. keep the Boggish people at war so that they continue to develop new technologies
- 
+
+#### Aspects of the Bogfather
  the Bogfather is not real, or rather, the Bogfather is not a god. it is believed that the Bogfather is split into 5 aspects that can act separately from each other. as such, the church is split up into 5 sections each in charge of a different aspect of Boggish life.
  - Aspect of war: kinda self explanatory. this part acts as high command for the Boggish military
  - Aspect of Bogs: In charge of all agriculture done in Bogland. 
