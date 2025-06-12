@@ -1,0 +1,12 @@
+- [[Abyssal Steel]] should be used sparingly. it would be too expensive to make everything out of it so only the components that need its properties should be made out of it.
+	- if it has a part that needs to move fast with force, use [[Abyssal Steel]]
+	- if it has a part that needs to fire a projectile, use [[Abyssal Steel]]
+	- if it has a part that needs a spring, maybe use [[Abyssal Steel]]
+- magic parts should be flavored with Psionics rather than Arcane or divine magics. give it that Mindflayer touch
+- If the piece of Machinery needs something like a computer or wireless connection, use a [[Technopath]]
+	- keep in mind, using a [[Technopath]] kills the [[Technopath]]. the machinery should be useful enough that the [[Unseen]] will spend [[Technopath| Technopaths]] on it
+- things should be Clunky and bulky in design, think dieselpunk.
+- If a piece of machinery needs to move consistently use some form of [[Peat]] gas
+	- for small things, glass ampules are used
+	- for large things, a sort of furnace would be used
+- Boggish machines should be stupid and unrealistic, that's the charm. 

@@ -1,0 +1,7 @@
+- go look at Warhammer 40k art of imperial worlds
+- same vibes as a Catholic cathedral
+- Extravagant and unnecessary.
+- lots of art of the Bogfather
+- behind the gilded exterior, decay.
+- lots of stone
+- BIG. stupid big

@@ -1,0 +1,1 @@
+The Boggish war machine needs constant reinforcement. the constant need for new soldiers is a drain on resources. as such, the question is brought forth. We have the corpses of dead soldiers, and we have seen the enemies use of zombies. Is there a way we can reanimate our own soldiers? 
