@@ -1,0 +1,5 @@
+The Bogs near Bogland have a wealth of resources. one of these resources is the Peat the forms from the decay of the plants. due to the properties of this Peat, it can be treated with other chemicals to create 2 main useful burnables.
+#### Peat ampules
+in one form the peat becomes highly reactive to oxygen. rapidly heating up and burning into large amounts of gas. this type is stored in glass ampules that are shattered when the gas is needed. generally used in smaller handheld devices. Boggish Crossbows use these to pull the bowstring back and ready it for the next shot. changing the chemicals used can make the released gas poisonous. ampules made with modified Peat are the basis for Boggish chemical weapons.
+#### Peat Furnaces
+the other form is much more stable and burns for a much longer time. this provides a much more stable and long term supply of gas which can be used to power movement over longer periods. the [[Bogbody Project]] integrates these into the Bogbody and uses the gas to power the mechanical bits. the assembly lines at the bottom of [[Worlds End]] also runs on a massive array of these Peat Furnaces

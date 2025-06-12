@@ -9,7 +9,7 @@
 	- seeing the accelerated pace of technological development brought on by the wars. the colony approaches the leaders of the state that was set up at the top of the tallest mountain in Bogland. the colony offered to help further their conquest in exchange for a price that would be payed at a later date. 
 	- the leaders, of course, accept the offer
 	- with the help of the colony, they start winning. 
-	- for the first time Bogland is united under one crown and the first Boggish barony is put in place. 
+	- for the first time Bogland is united under one crown and the first Boggish barony is put in place. the colony continues to lead Bogland as the [[Unseen]]
 - #### the first dynasty 
 	
 

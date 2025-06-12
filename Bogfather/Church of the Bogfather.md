@@ -1,6 +1,6 @@
 
 > "Yeah we just kinda do executions"
-> -Syrr George Toadsquire, Heir to the barony of Bogland, scourge of the bogs, Avatar of war
+> -[[Syrr George Toadsquire]], Heir to the barony of Bogland, scourge of the bogs, Avatar of war
 
  the church of the Bogfather was created fairly early on in Bogland history with three main purposes:
  1. keep the people in a state so that the [[Unseen]] can continue to benefit from the people's technology
@@ -17,3 +17,29 @@
 Early in their lives, every Boggish citizen is supposed to chooses one of these aspects to devote their lives to. Boggish cathedrals tend to be devoted to a single one of these aspects with the city they are built in being mainly devoted to that aspect. for example, a city with a cathedral of war may be focused on training soldiers and have barracks for reserves. 
 #### Avatars
 it is believed that in times of great need the Bogfather will send an exceptional individual to represent one of his aspects. The church call these individuals Avatars. Due to the nature of Bogland always being at war, Avatars of War are the most common. the most recent Avatar of War, of course, Being Syrr George Toadsquire. Cathedrals of a particular aspect tend to have art of past Avatars. 
+
+#### Hierarchy
+with each of these, the individual belongs to a specific Aspect
+- Devotees
+	- all citizens are devotees. most choose which Aspect to devote themselves to at some point in their teenage years
+	- most just do what their parents do
+	- devotees can change their aspect with paperwork. Although sometimes people can be drafted from other aspects in the event a different aspect needs more people. 
+	- do all the actual work of the Aspect
+- Herald
+	- one who chooses to work as more of a religious leader for their Aspect rather than just a normal devotee
+	- outside of the normal chain of command in the Aspect of War
+	- has power within a single cathedral and the boundaries of that cathedral
+	- has subdivisions within
+		- High Herald
+			- instead has power within an entire city or multiple cathedrals if the city is big enough
+		- grand Herald
+			- power within multiple cities
+		- Arch Herald
+			- one per Aspect
+			- Leads the Aspect
+			- Arch Herald of Judgement is also known as the Baron
+- Avatar
+	- see above
+	- outside the normal hierarchy
+- Agent
+	- how the church explains non-Bogfather gods
